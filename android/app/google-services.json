@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388443142524",
+    "project_id": "flashchat-a5a61",
+    "storage_bucket": "flashchat-a5a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388443142524:android:0061fda9dd0217e05e8cf9",
+        "android_client_info": {
+          "package_name": "co.saini.rahul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388443142524-r4e8muki26c1kb7if7vpcukmbcn4dtro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwoJZ1Fk-HVaMIhB9NrgId_4zN9Sp5Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388443142524-r4e8muki26c1kb7if7vpcukmbcn4dtro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
